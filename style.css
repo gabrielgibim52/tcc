@@ -1,0 +1,52 @@
+*{
+    background-color:	#FF8C00 ;}
+
+.cosplayer{
+    justify-content: center; 
+    text-align: start;
+    font-size: x-large;
+    color: white;
+    font-family: 'Tilt Neon', cursive;
+}
+.logo{
+    height: 150px;
+    width: 150px;
+}
+.name{
+    border-radius: 20px;
+    color: white;
+}
+.arte{
+    border-radius: 20px;
+    color: white;
+}
+.data{
+    border-radius: 20px;
+    color: white;
+}
+.rg{
+    border-radius: 20px;
+    color: white;
+}
+.what{
+    border-radius: 20px;
+    color: white;
+}
+.email{
+    border-radius: 20px;
+    color: white;
+}
+.enviar{
+    border-radius: 20px;
+    width: 200px;
+    font-size: x-large;
+}
+.oi{
+    justify-content: center;
+    text-align: center;
+    font-size: xx-large; 
+    font-family: 'Tilt Neon', cursive;
+}
+.head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
